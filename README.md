@@ -1,4 +1,4 @@
-#  Project Requirement
+#  Project Idea Requirement
 #1. Run indefinitely in the background, the app icon should be running in the “show hidden icons” area. (to make it easy to kill or exit)
 #2. Any program which is running in windows, whose shortcut is also pinned to the taskbar keep its icon as-is (original default) whereas all other icons pinned to the taskbar should be changed to grey colour. 
 #3. Example if VLC player and paint brush shortcuts are pinned to taskbar, but only VLC player is running in windows. Then this application should only change paintbrush icon to grey colour
